@@ -1,0 +1,6 @@
+Tiesiog knygynas
+Bedarbis;Fortnite Guide;2018;10;1;0
+Autorius1;APavadinimas;2018;9;9;9
+Autorius1;CPavadinimas;2018;9;8;9
+Autorius1;BPavadinimas;2018;9;8;9
+Autorius1;APavadinimas;2018;9;7;9

@@ -1,7 +1,21 @@
 
 Pradiniai duomenys
 Autorius            Pavadinimas    Metai  Kaina ParduotaLiko 
-Autorius            pavadinimas    2018   9,99  1    0    
-Autorius            pavadinimas    2017   9,99  1    0    
-Autorius            pavadinimas    2013   9,99  1    0    
-Aadasfatorius       pavadinimas    2018   9,99  1    0    
+Autorius            pavadinimas    2018   9.99  1    0    
+Autorius            pavadinimas    2017   9.99  1    0    
+Autorius            pavadinimas    2013   9.99  1    0    
+Aadasfatorius       pavadinimas    2018   9.99  1    0    
+Autorasius          pavadifagnimas 2017   400.991    0    
+Autoragagius        pavadinimas    2013   9.99  1    0    
+Autofarasius        pavadifagnimas 2007   400   1    0    
+Abtorius            Knygas         2011   99    1    0    
+LabaiBrangi         Knyga          2018   1000000    100  
+Steve Jobs          Kaip uzdirbti milijona2011   10000000    1    
+Donelaitis          Metai          2000   1     0    1    
+JRRTolkien          Sena knyga     1900   50    1915 1919 
+Cook                Knyga is ateities2100   50    0    -1   
+Bedarbis            Fortnite Guide 2018   10    1    0    
+Autorius1           APavadinimas   2018   9     9    9    
+Autorius1           CPavadinimas   2018   9     8    9    
+Autorius1           BPavadinimas   2018   9     8    9    
+Autorius1           APavadinimas   2018   9     7    9    

@@ -10,6 +10,7 @@ public partial class lab4 : System.Web.UI.Page
 
     protected void Page_Load(object sender, EventArgs e)
     {
+        Directory.CreateDirectory(Server.MapPath("Duomenys"));
         List<Book> books = Reading();
         Actions(books);
         
@@ -66,8 +67,10 @@ public partial class lab4 : System.Web.UI.Page
             FileUpload1.SaveAs(stduoma);
             string[] lines = File.ReadAllLines(stduoma);
             TableRow row = new TableRow();
-            TableCell pavadinimas = new TableCell();
-            pavadinimas.Text = lines[0];
+            TableCell pavadinimas = new TableCell
+            {
+                Text = lines[0]
+            };
             row.Cells.Add(pavadinimas);
             table.Rows.Add(row);
         }
@@ -141,7 +144,7 @@ public partial class lab4 : System.Web.UI.Page
     {
         TableRow row = new TableRow();
         TableCell pavadinimas = new TableCell();
-        pavadinimas.Text = a;
+        pavadinimas.Text = String.Format("Klaida - {0}",a);
         row.Cells.Add(pavadinimas);
         Table4.Rows.Add(row);
     }
@@ -240,15 +243,17 @@ public partial class lab4 : System.Web.UI.Page
         string path;
         double price;
         string[] YearsString = new string[2];
-        if (GetPath(out path))
-        {
-            GetCriteria(out YearsString, out price, path);
-        }
-        else
+        GetPath(out path);
+        if (!File.Exists(path)) 
         {
             YearsString[0] = "1";
             YearsString[1] = "2100";
             price = 99999999;
+        }
+        else
+        {
+            GetPath(out path);
+            GetCriteria(out YearsString, out price, path);
         }
         int[] years = new int[2];
         years[0] = int.Parse(YearsString[0]);

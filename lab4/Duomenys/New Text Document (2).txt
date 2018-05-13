@@ -1,0 +1,8 @@
+Knygos for sale
+Autofarasius;pavadifagnimas;2007;400;1;0;
+Abtorius;Knygas;2011;99;1;0;
+LabaiBrangi;Knyga;2018;100000;0;100;
+Steve Jobs;Kaip uzdirbti milijona;2011;1000000;0;1;
+Donelaitis;Metai;2000;1;0;1;
+JRRTolkien;Sena knyga;1900;50;1915;1919;
+Cook;Knyga is ateities;2100;50;0;-1;

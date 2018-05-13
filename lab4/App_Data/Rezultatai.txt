@@ -1,7 +1,11 @@
 
 Rezultatai
 Autorius            Pavadinimas    Metai  Kaina ParduotaLiko 
-Autorius            pavadinimas    2018   9,99  1    0    
-Autorius            pavadinimas    2017   9,99  1    0    
-Autorius            pavadinimas    2013   9,99  1    0    
-Aadasfatorius       pavadinimas    2018   9,99  1    0    
+Autorius1           APavadinimas   2018   9     9    9    
+Autorius1           APavadinimas   2018   9     7    9    
+Autorius1           BPavadinimas   2018   9     8    9    
+Autorius1           CPavadinimas   2018   9     8    9    
+Bedarbis            Fortnite Guide 2018   10    1    0    
+Autorius            pavadinimas    2018   9.99  1    0    
+Autorius            pavadinimas    2017   9.99  1    0    
+Aadasfatorius       pavadinimas    2018   9.99  1    0    
