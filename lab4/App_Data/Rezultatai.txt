@@ -1,0 +1,7 @@
+
+Rezultatai
+Autorius            Pavadinimas    Metai  Kaina ParduotaLiko 
+Autorius            pavadinimas    2018   9,99  1    0    
+Autorius            pavadinimas    2017   9,99  1    0    
+Autorius            pavadinimas    2013   9,99  1    0    
+Aadasfatorius       pavadinimas    2018   9,99  1    0    
